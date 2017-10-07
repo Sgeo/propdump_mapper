@@ -6,7 +6,7 @@ use std::io::{BufRead, BufReader};
 use image::{ImageBuffer, Rgb, GenericImage};
 
 const SCALE: i64 = 10000; // 6550x6550
-const RESOLUTION: u32 = 6550;
+const RESOLUTION: u32 = 6551;
 
 
 fn main() {
